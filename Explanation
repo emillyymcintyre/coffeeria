@@ -1,0 +1,25 @@
+Code summary/idea:
+
+Game:
+NPC gets a randomly generated menu picking between eight ingredients to go into their coffee
+Choices 1-4 are picked twice, and cannot repeat either
+Choices 5-8 are more like toppings so they are picked once
+The ingredients are displayed one after the other waiting half a second for each
+
+Once the order is assigned the player can chose to move to another area where they then pick out the ingredients to put into the coffee
+They also pick a cup color at the end
+Depending on what ingredients are chosen the color of the drink and the latte art is different
+
+If any choice is wrong, the only effect on gameplay is they they will receive a red X instead of a green check if they get it correct
+
+So far its simple, however I am planning on adding other details to make it more complicated:
+
+Heating the coffee to a certain temperature that goes back and forth between hot and cold and they have to click at the right moment
+
+Signuature orders(???)
+
+Money system possibly, getting more money for success and less for failure
+
+Using that money to buy decorations, more customers, more drink options ect
+
+
